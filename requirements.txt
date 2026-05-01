@@ -1,0 +1,23 @@
+# PDF extraction
+pymupdf==1.25.5
+pdfplumber==0.11.4
+
+# Data
+pandas==2.2.2
+numpy==1.26.4
+
+# FREE Embeddings — local, no API needed
+# Downloads ~90MB once, then works offline
+sentence-transformers==3.0.1
+
+# Vector store — FAISS (no C++ Build Tools needed on Windows!)
+# faiss-cpu has pre-built wheels for Windows — works out of the box
+faiss-cpu==1.9.0
+
+# FREE LLM — Groq (14,400 req/day free)
+groq==0.9.0
+
+# Utilities
+python-dotenv==1.0.1
+rich==13.7.1
+tqdm==4.66.4

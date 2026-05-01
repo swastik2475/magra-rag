@@ -1,0 +1,22 @@
+# Environment
+.env
+
+# Generated index files
+faiss_db/
+chroma_db/
+
+# Generated corpus cache (rebuilt by python main.py --setup)
+data/corpus_chunks.json
+
+# Eval output (generated at runtime)
+eval/results.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# OS
+.DS_Store
+Thumbs.db

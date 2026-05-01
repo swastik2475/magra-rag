@@ -1,0 +1,43 @@
+Activity ID,Activity Name,Duration,Start,Finish,Constraint,Total Float
+,Project Total,432d,11/24/25,07/30/27,,0d
+,Construction (rollup),432d,11/24/25,07/30/27,,0d
+MS-3,Construction NTP,0d,11/24/25,11/24/25,CC,66d
+MS-7,Cowan Power Poles Fully Disconnected,0d,12/01/25,12/01/25,CC,84d
+,(Milestone — name missing in source),0d,02/02/26,02/02/26,CC,302d
+,(Milestone — name missing in source),0d,06/01/26,06/01/26,CC,0d
+MS-5,Projected Substantial Completion,0d,06/25/27,06/25/27,,3d
+MS-4,Substantial Completion (6/30/2027),0d,06/30/27,06/30/27,CC,0d
+MS-6,Final Completion (7/30/2027),0d,07/30/27,07/30/27,CC,0d
+,Procurement,237d,11/24/25,10/26/26,,135d
+PROC-1,Early Material Submittal/Review,22d,11/24/25,12/24/25,,66d
+PROC-7,"54"" Ductile Lead Time",113d,12/26/25,06/04/26,CC,114d
+PROC-8,"12"" Sewer Ductile Lead Time",73d,12/26/25,04/08/26,,148d
+PROC-4,"66"" Pipe Lead Time",73d,12/26/25,04/08/26,,143d
+PROC-5,"30"" Plug Valve Lead Time",113d,12/26/25,06/04/26,,160d
+PROC-3,"Release 66"" Plug Valve",1d,12/26/25,12/26/25,CC,135d
+PROC-6,Casing Pipe Lead Time,35d,12/26/25,02/13/26,,87d
+PROC-9,"12"" Water Ductile Lead TIme",32d,12/26/25,02/10/26,,189d
+PROC-2,Early Release of Pipe Mill Steel Order,1d,12/26/25,12/26/25,CC,66d
+PROC-11,"66"" Plug Valve Lead Time",213d,12/29/25,10/26/26,,135d
+PROC-10,"30"" Ductile Lead Time",60d,12/29/25,03/23/26,,66d
+,Mobilization,86d,02/02/26,06/01/26,,277d
+MOB-3,Erosion Control,45d,02/02/26,04/03/26,,317d
+MOB-1,Set up Office,60d,02/02/26,04/24/26,,302d
+MOB-2,Fencing Removal/Relocation,45d,02/02/26,04/03/26,,317d
+MOB-4,Pre-load Fill Material Installation STA 6+00 to 16+00,10d,02/16/26,02/27/26,,224d
+MOB-6,Preload Fill Material Monitoring,65d,03/02/26,06/01/26,,224d
+,Crew 1 Marine Drive Utility Installation,99d,02/09/26,06/25/26,,94d
+MRNDR-1,Crew 1 Mobilization,1d,02/09/26,02/09/26,CC,76d
+,"C7.3 48"" RCP",20d,02/10/26,03/09/26,,77d
+MRNDR-5,"48"" RCP B5 to B6 (Road Crossing)",9d,02/10/26,02/20/26,,76d
+MRNDR-6,"48"" RCP B6 to B7 (in Roadway)",3d,02/23/26,02/25/26,,76d
+MRNDR-7,"48"" RCP B6 to B9",3d,02/26/26,03/02/26,,76d
+MRNDR-8,"River Road 72"" Casing Installation (For 66"" Forceman)",5d,03/03/26,03/09/26,,76d
+,"C9.3 Marine Dr 30"" 527 LF (30' deep)",27d,03/24/26,04/29/26,,95d
+MRNDR-2,"30"" Sewer MH B1 to B2",9d,03/24/26,04/03/26,,66d
+MRNDR-3,"30"" Grav. Sewer MH B2 to B3",15d,04/06/26,04/24/26,,66d
+MRNDR-4,"30"" Grav. Sewer MH B3 to B4",3d,04/27/26,04/29/26,,94d
+,"30"" Overflow Sewer STA 0+00 to 3+22",44d,04/27/26,06/25/26,,94d
+MRNDR-9,"30"" Grav Sewer MH 31 to Overflow Structure",20d,04/30/26,05/28/26,,94d
+MRNDR-10,"30"" Grav Sewer MH 41 to Overflow Structure",20d,05/29/26,06/25/26,,94d
+,Overflow Structure,42d,04/27/26,06/23/26,,66d
