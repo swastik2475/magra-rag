@@ -1,4 +1,4 @@
-# Magra RAG – Construction Contract Q&A
+#  RAG – Construction Contract Q&A
 
 | Component | Tool | Cost |
 |-----------|------|------|
